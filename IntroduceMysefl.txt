@@ -1,1 +1,5 @@
-Hello everyone, my name is Thin. 
+Hello everyone, my name is Thin.
+I'm 19 years old. I was born in Quang Dien District, Thua Thien Hue Provice.
+Now I'm living in Da Nang City
+I am studying Duy Tan University
+My major is Big Data & Machine Learning
